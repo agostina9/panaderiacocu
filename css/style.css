@@ -1,0 +1,10 @@
+@media all and (max-width:767px)
+{
+    .bannerPanaderia{
+        height: 250px;
+        object-fit: cover;
+    }
+    .alinearicons{
+        text-align: center;
+    }
+}
